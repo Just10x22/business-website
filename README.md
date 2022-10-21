@@ -1,2 +1,2 @@
-# Fakewebsite
-Fake business website made with html css
+# Selling website
+business website made with html css
